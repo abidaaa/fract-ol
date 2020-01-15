@@ -4,11 +4,11 @@ discover/use the mathematical notion of complex numbers and to take a peek at th
 of optimization in computer graphics.
 
 ### Table of content
-* [What is Fract'ol?](#what-is-fdf)
+* [What is Fract'ol?](#what-is-Fract-ol)
 * [How do I use it?](#how-do-i-use-it)
 
 
-### What is Fract'ol?
+### What is Fract-ol?
 The term fractal was first used by mathematician Benoit Mandelbrot in 1974,
 he based it on the Latin word fractus, meaning "broken" or "fractured".
 A fractal is an abstract mathematical object, like a curve or a surface, which has a similar
