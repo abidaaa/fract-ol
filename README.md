@@ -18,12 +18,12 @@ Here is some examples :
 
 *Mandelbrot*
 
-![Mandel1:](https://github.com/abidaaa/fract-ol/blob/master/images/6.png)
+![Mandel1:](https://github.com/abidaaa/fract-ol/blob/master/Images/6.png)
 
-![Mandel2:](https://github.com/abidaaa/fract-ol/blob/master/images/7.png)
+![Mandel2:](https://github.com/abidaaa/fract-ol/blob/master/Images/7.png)
 
-![Mandel3:](https://github.com/abidaaa/fract-ol/blob/master/images/8.png)
+![Mandel3:](https://github.com/abidaaa/fract-ol/blob/master/Images/8.png)
 
-![Mandel4:](https://github.com/abidaaa/fract-ol/blob/master/images/9.png)
+![Mandel4:](https://github.com/abidaaa/fract-ol/blob/master/Images/9.png)
 
-![Mandel5:](https://github.com/abidaaa/fract-ol/blob/master/images/10.png)
+![Mandel5:](https://github.com/abidaaa/fract-ol/blob/master/Images/10.png)
