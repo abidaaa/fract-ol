@@ -16,7 +16,7 @@ pattern whatever the scale.
 This project’s goal is to create a small fractal exploration program.
 Here is some examples :
 
-*Mandelbrot*
+### *Mandelbrot*
 
 ![Mandel1:](https://github.com/abidaaa/fract-ol/blob/master/Images/6.png)
 
@@ -27,3 +27,32 @@ Here is some examples :
 ![Mandel4:](https://github.com/abidaaa/fract-ol/blob/master/Images/9.png)
 
 ![Mandel5:](https://github.com/abidaaa/fract-ol/blob/master/Images/10.png)
+
+### *Julia*
+
+![Julia1:](https://github.com/abidaaa/fract-ol/blob/master/Images/2.png)
+
+![Julia2:](https://github.com/abidaaa/fract-ol/blob/master/Images/3.png)
+
+![Julia3:](https://github.com/abidaaa/fract-ol/blob/master/Images/1.png)
+
+### *Burningship*
+
+![BS1:](https://github.com/abidaaa/fract-ol/blob/master/Images/4.png)
+
+![BS2:](https://github.com/abidaaa/fract-ol/blob/master/Images/5.png)
+
+
+### How do I use it?
+
+### *Installation*
+
+To generate an executable for this project run make in the root of the project directory. 
+This project will only work on MacOS El Capitan/Sierra/HighSierra(maybe) and even then, no promises!
+
+### *Usage*
+
+After running make to generate the Fract'ol executable you can run the program with ./fractol and it 
+will give you a breif example on how to use it
+
+Enjoy.
